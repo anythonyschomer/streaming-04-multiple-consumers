@@ -36,7 +36,7 @@ Explore the RabbitMQ website.
 
 1. Run listening_worker.py
 
-Will it terminate on its own? How do you know?
+Will it terminate on its own? How do you know? No, because it says to exit press CTRL+C
 
 ## Ready for Work
 
