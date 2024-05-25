@@ -1,8 +1,8 @@
 """
     This program sends messages from a CSV file to a queue on the RabbitMQ server.
 
-    Author: Your Name
-    Date: Current Date
+    Anthony Schomer
+    5/24/2024
 
 """
 
